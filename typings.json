@@ -1,0 +1,31 @@
+{
+  "name": "todoist",
+  "version": false,
+  "dependencies": {
+    "ramda": "registry:npm/ramda#0.21.0+20160531162943",
+    "react-dnd-html5-backend": "registry:dt/react-dnd-html5-backend#2.1.0+20170123203653",
+    "tape": "registry:npm/tape#4.0.0+20160723033700"
+  },
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20160629101425",
+    "chalk": "registry:dt/chalk#0.4.0+20160317120654",
+    "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+    "enzyme": "registry:dt/enzyme#2.4.1+20160709041153",
+    "expect": "registry:dt/expect#1.13.4+20160316155526",
+    "i18next": "registry:dt/i18next#2.3.4+20160803175212",
+    "lodash": "registry:dt/lodash#3.10.0+20160720001309",
+    "loglevel": "registry:dt/loglevel#1.4.0+20160412141402",
+    "moment": "registry:dt/moment#2.11.1+20160829143156",
+    "react": "registry:dt/react#0.14.0+20160817201227",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160724070751",
+    "react-router": "registry:dt/react-router#2.0.0+20160813233016",
+    "react-router/history": "registry:dt/react-router/history#2.0.0+20160608102730",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-logger": "registry:dt/redux-logger#2.6.0+20160619033847",
+    "redux-saga": "registry:dt/redux-saga#0.9.1+20160703120921",
+    "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921",
+    "socket.io-client": "registry:dt/socket.io-client#1.4.4+20160317120654",
+    "xregexp": "registry:dt/xregexp#3.0.0+20160317120654"
+  }
+}
